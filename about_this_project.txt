@@ -1,0 +1,6 @@
+I made a project which will roted your computer screen.
+if you want to run it press shift + f10(only on pycharm)
+if you want to stop it press ctrl + f2 (only on pycharm)
+if you cant stop it press a long time the computer power button
+
+thanks for watching
